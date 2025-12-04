@@ -4,7 +4,7 @@ body {
     margin: 1rem;
     padding: 1rem;
     box-sizing:border-box;
-    /* Navigation Bar */
-    background: linear-gradient(maroon)
+    background: linear-gradient(maroon);
     padding: 2rem;
 }
+
