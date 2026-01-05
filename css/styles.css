@@ -234,7 +234,6 @@ font-size:1.2rem;
 }
 
 .footer-nav a {
-   color: var(--white);
    transition: color 0.3s ease;
     
 }
